@@ -45,7 +45,7 @@ int main()
                 printf("\n End of the program");
                 break;
             default:
-                printf("\n Please Enter 10 to 4 Only");
+                printf("\n Please Enter 1 to 4 Only");
                 break;
         }
     }while(ch!=0);
