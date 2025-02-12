@@ -8,3 +8,6 @@
   - bubble sort
   - selection sort
   - merge sort
+# Stack :
+  -Stack Use LIFO(list in first out) method.
+  -it means we access last added element frist.  
