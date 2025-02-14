@@ -34,7 +34,7 @@ int main(){
             search();
             break;
 
-        case0:
+        case 0:
          printf("-------- END OF PROGRAM----------------");
          break;
         
