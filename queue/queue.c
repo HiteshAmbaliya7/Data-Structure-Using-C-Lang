@@ -36,6 +36,7 @@ int main(){
 
         case0:
          printf("-------- END OF PROGRAM----------------");
+         break;
         
         default:
             printf("Plese Enter 1 to 4 only");
