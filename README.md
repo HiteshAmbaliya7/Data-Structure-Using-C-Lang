@@ -12,11 +12,11 @@ This repo searching algo :
   - Stack Use LIFO(list in first out) method.
   - it means we access last added element frist. 
 - Queue :
-  - in this we three types of Queue :
+  - there are three types of Queue :
       - simple queue
       - dubleended queue
       - circular queue
 - Linked lists:
-  - there are twotypes of Linjed lists
+  - there are twotypes of Linked lists
     - singly Linked list
     - dubly Linked list
