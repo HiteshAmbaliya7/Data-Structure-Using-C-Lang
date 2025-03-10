@@ -9,10 +9,10 @@ shorting algo :
   - selection sort
   - merge sort
 Stack :
-  -Stack Use LIFO(list in first out) method.
-  -it means we access last added element frist. 
+  - Stack Use LIFO(list in first out) method.
+  - it means we access last added element frist. 
 Queue :
-  -in this we three types of Queue :
-      simple queue
-      dubleended queue
-      circular queue
+  - in this we three types of Queue :
+      - simple queue
+      - dubleended queue
+      - circular queue
