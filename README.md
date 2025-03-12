@@ -19,4 +19,13 @@ This repo searching algo :
 - Linked lists:
   - there are twotypes of Linked lists
     - singly Linked list
+      - insert data first
+      - insert data last
+      - insert data specific position
+      - delete data first
+      - delete data last
+      - delete data delete specific
+      - searching element in linked list
+      - sorting of linked list 
+
     - dubly Linked list
