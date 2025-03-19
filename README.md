@@ -29,3 +29,4 @@ This repo searching algo :
       - sorting of linked list 
 
     - dubly Linked list
+    - linked list implementation on stack
