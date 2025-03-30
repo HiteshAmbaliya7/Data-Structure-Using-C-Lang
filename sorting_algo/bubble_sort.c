@@ -24,13 +24,15 @@ void bubblesort(int arr[],int n)
 int main()
 {
 
-    int i,n;
-    int arr[10];
-    n=sizeof(arr)/sizeof(arr[0]);
+    int i,n, size;
+    printf("enter size of arry :");
+    scanf("%d",&size);
+    int arr[size];
+    n=size;
 
     for(i=0;i<=n-1;i++)
     {
-        printf("Enter array valve %d:\n",i);
+        printf("Enter array valve %d:",i);
         scanf("%d",&arr[i]);
     }
     printf("\nthe inputed  array is :\n ");
