@@ -50,7 +50,7 @@ void display(struct node *p)
         {
             printf("\t %d", p->data);
             p = p->next;
-        };
+        }
     }
 }
 void insertspecific(struct node *p)
@@ -188,6 +188,7 @@ void sort(struct node *p)
 int main()
 {
     int ch;
+    start =NULL;
     while (ch != 0)
     {
         printf("\n 1 insert first");
